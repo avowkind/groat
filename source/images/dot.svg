@@ -1,0 +1,61 @@
+<svg height="100%" version="1.1" width="100%" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  overflow="visible"
+  viewBox="-100 -100 200 200" preserveAspectRatio="xMinYMin meet" >
+
+  <style type="text/css" >
+               <![CDATA[
+                   path {
+                       stroke: #606060;
+                      // fill:   #00cc00;
+                       fill: none;
+                       stroke-linecap: round;
+                   }
+                   ellipse.dot {
+                       stroke: #606060;
+                       fill:   rgb(205,206,199);
+
+
+                       stroke-linecap: round;
+                   }
+                   circle.coin {
+                       stroke: #606060;
+                       fill:   rgb(205,206,199);
+
+                   }
+               ]]>
+           </style>
+           <defs>
+             <marker id="ellip1"
+      viewBox="0 0 20 20" refX="10" refY="10"
+      markerUnits="userSpaceOnUse"
+      markerWidth="20" markerHeight="20"
+      orient="auto" fill="#49f">
+      <ellipse class="dot" cx="10" cy="10" rx="1.5" ry="2"   />
+    </marker>
+
+    <symbol id="dot" viewBox="0 0 20 20" refX="10" refY="10"
+             markerUnits="userSpaceOnUse"
+             markerWidth="20" markerHeight="20"
+             orient="auto" fill="#49f">
+               <ellipse class="dot" cx="0" cy="0" rx="2" ry="1.5"   />
+    </symbol>
+</defs>
+<circle class="coin" cx="0" cy="0" r="100"    style=""></circle>
+ <!-- inner circle -->
+ <path d="M50 0 A 50 50 0 0 1 0 50"
+    fill="none" stroke="none"
+    marker-start="url(#ellip1)"
+    marker-mid="url(#ellip1)"
+    marker-end="url(#ellip1)" />
+
+
+    <circle class="coin" r="35" stroke-dasharray="5 5"
+      marker-start="url(#ellip1)"
+    marker-mid="url(#ellip1)"
+    marker-end="url(#ellip1)" />
+
+<!--
+!-->
+
+</svg>
