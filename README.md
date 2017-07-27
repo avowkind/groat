@@ -1,3 +1,4 @@
 # groat
 groat.nz website sources
-Built using Hexo 
+
+Built using Hexo

@@ -1,0 +1,101 @@
+[
+  {
+    "year":1980,
+    "country":"UK",
+    "company":"Aston University",
+    "role":"Student",
+    "activity":"BSc Computer Science, Geology, Chemistry",
+    "team":0,
+    "years":4
+  },
+  {
+    "year":1984,
+    "country":"UK",
+    "company":"Golden River Ltd",
+    "role":"Software Developer",
+    "activity":"Road Traffic and Hydro Monitoriing Systems, Embedded Systems Programming",
+    "team":0,
+    "years":5
+  },
+  {
+    "year":1988,
+    "country":"UK",
+    "company":"Stack Ltd",
+    "role":"Software Developer and Team Lead",
+    "activity":"Autosport data logging, Embedded Systems Programming",
+    "team":4,
+    "years":5
+  },
+  {
+    "year":1994,
+    "country":"UK",
+    "company":"Newland Software Ltd",
+    "role":"Software Developer, Freelance Contractor",
+    "activity":"Contract software development, plant control, scada, machine tools etc. Embedded Systems, PC and Web programming",
+    "team":0,
+    "years":4
+  },
+  {
+    "year":1998,
+    "country":"UK",
+    "company":"Ansae Ltd",
+    "role":"Technical Director & Partner",
+    "activity":"Museum Control and information systems",
+    "team":3,
+    "years":2
+  },
+  {
+    "year":2000,
+    "country":"UK",
+    "company":"Sendo Ltd",
+    "role":"Software Development Manager",
+    "activity":"Mobile Phone Handset design and development",
+    "team":20,
+    "years":2
+  },
+  {
+    "year":2002,
+    "country":"UK",
+    "company":"Newland Software Ltd",
+    "role":"Software Developer, Freelance Contractor",
+    "activity":"Contract software development, plant control, scada, machine tools etc. Embedded Systems, PC and Web programming",
+    "team":0,
+    "years":2
+  },
+  {
+    "year":2004,
+    "country":"NZ",
+    "company":"Navman Ltd",
+    "role":"User Interface Team Manager",
+    "activity":"GPS Navigation, Embedded Systems Development, Service Systems Development",
+    "team":6,
+    "years":4
+  },
+  {
+    "year":2008,
+    "country":"NZ",
+    "company":"Vianet",
+    "role":"Group Manager",
+    "activity":"Travel Booking Full tier web system (TradeMe)",
+    "team":8,
+    "years":2
+  },
+  {
+    "year":2010,
+    "country":"NZ",
+    "company":"NIWA",
+    "role":"Systems Development Manager",
+    "activity":"Science Research, Information Management and delivery systems",
+    "team":8,
+    "years":5
+  },
+  {
+    "year":2015,
+    "country":"NZ",
+    "company":"NIWA",
+    "role":"General Manager Information Technology",
+    "activity":"Strategy, Management, ",
+    "team":36,
+    "years":2
+  }
+]

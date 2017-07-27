@@ -76,18 +76,18 @@ theme: bootstrap-blog
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://github.com/avowkind/groat
-  branch: gh-pages
-  message: 
-
 # deploy:
-#   type: rsync
-#   host: avowkind.net
-#   user: avowkind
-#   root: public_html/groat
-# #  port: [port]
-#   delete: true
-#   verbose: true
-#   ignore_errors: false
+#   type: git
+#   repo: https://github.com/avowkind/groat
+#   branch: gh-pages
+#   message:
+
+deploy:
+  type: rsync
+  host: avowkind.net
+  user: avowkind
+  root: public_html/groat
+#  port: [port]
+  delete: true
+  verbose: true
+  ignore_errors: false
