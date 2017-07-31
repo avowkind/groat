@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8" />
+	<title>NiwaWeather Designed for embedding. &#8211; Memory, Reason, Imagination</title>
+	<meta name="profile" content="http://gmpg.org/xfn/11" />
+	<!--[if lte IE 7 ]> <link rel="stylesheet" href="http://andrew.avowkind.net/wp-content/themes/the-erudite/css/ie7.css" type="text/css"> <![endif]-->
+	<!--[if IE 8 ]> <link rel="stylesheet" href="http://andrew.avowkind.net/wp-content/themes/the-erudite/css/ie8.css" type="text/css"> <![endif]-->
+	<script>
+		var erdt = {"More":"<span>\u2193<\/span> Keep Reading","Less":"<span>\u2191<\/span> Put Away","Info":"&#x2193; Further Information","MenuShow":"<span>\u2193<\/span> Show Menu","MenuHide":"<span>\u2191<\/span> Hide Menu","DisableKeepReading":false,"DisableHide":false};
+		(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement);
+	</script>
+	<link rel="pingback" href="http://andrew.avowkind.net/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Memory, Reason, Imagination &raquo; Feed" href="http://andrew.avowkind.net/feed" />
+<link rel="alternate" type="application/rss+xml" title="Memory, Reason, Imagination &raquo; Comments Feed" href="http://andrew.avowkind.net/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/andrew.avowkind.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.9"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='the-erudite-css'  href='http://andrew.avowkind.net/wp-content/themes/the-erudite/css/erudite.css?ver=4.5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://andrew.avowkind.net/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://andrew.avowkind.net/wp-content/plugins/jetpack/css/jetpack.css?ver=4.0.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://andrew.avowkind.net/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://andrew.avowkind.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://andrew.avowkind.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://andrew.avowkind.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://andrew.avowkind.net/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Vote or burn a car &#8211; will it make a difference' href='http://andrew.avowkind.net/vote_or_burn' />
+<link rel='next' title='Don&#8217;t fear the reaper' href='http://andrew.avowkind.net/142' />
+<meta name="generator" content="WordPress 4.5.9" />
+<link rel="canonical" href="http://andrew.avowkind.net/niwaweather-designed-for-embedding" />
+<link rel='shortlink' href='http://wp.me/p2pnA0-1S' />
+<link rel="alternate" type="application/json+oembed" href="http://andrew.avowkind.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fandrew.avowkind.net%2Fniwaweather-designed-for-embedding" />
+<link rel="alternate" type="text/xml+oembed" href="http://andrew.avowkind.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fandrew.avowkind.net%2Fniwaweather-designed-for-embedding&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="NiwaWeather Designed for embedding." />
+<meta property="og:url" content="http://andrew.avowkind.net/niwaweather-designed-for-embedding" />
+<meta property="og:description" content="My team at NIWA and I have spent the last few months working very hard on a system that allows NIWA&#8217;s EcoConnect web services to be made available as visual components within web sites. The f…" />
+<meta property="article:published_time" content="2013-06-12T23:26:14+00:00" />
+<meta property="article:modified_time" content="2013-06-12T23:42:00+00:00" />
+<meta property="og:site_name" content="Memory, Reason, Imagination" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@avowkind" />
+<meta name="twitter:card" content="summary" />
+</head>
+<body class="single single-post postid-116 single-format-standard hiding">
+
+<div id="wrapper" class="hfeed">
+	
+	<div id="header-wrap">
+		<div id="header" role="banner">
+			<h1 id="blog-title"><span><a href="http://andrew.avowkind.net/" title="Memory, Reason, Imagination" rel="home">Memory, Reason, Imagination</a></span></h1>
+			<div id="blog-description">Andrew Watkins, Waiheke, New Zealand</div>
+		</div><!--  #header -->
+
+		<div id="access" role="navigation">
+			<div class="skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+			<div id="menu"><ul><li class="page_item page-item-2"><a href="http://andrew.avowkind.net/about">Contact</a></li><li class="page_item page-item-75"><a href="http://andrew.avowkind.net/resume">Résumé</a></li></ul></div>
+		</div><!-- #access -->
+
+	</div><!--  #header-wrap -->
+	<div id="container">
+		<div id="content" role="main">
+
+						<div id="post-116" class="post-116 post type-post status-publish format-standard hentry category-imagination tag-niwa tag-svg tag-weather tag-web">
+				<h2 class="entry-title">NiwaWeather Designed for embedding.</h2>
+				<div class="entry-content">
+<p>My team at NIWA and I have spent the last few months working very hard on a system that allows NIWA&#8217;s EcoConnect web services to be made available as visual components within web sites.  The first result of this is the rather stylish <a href="http://weather.niwa.co.nz">http://weather.niwa.co.nz </a></p>
+<p>This provides an instant at a glance summary of the weather for the day. You can tell the mood of the day, and you can easily spot those windows of opportunity &#8211; a dry spell or rain showers.</p>
+<p>The interactive website is great and I&#8217;ll hope that you will bookmark your local page.  But I&#8217;d also like to demonstrate that we have an embeddable mode.  This allows you to put the key weather forecast elements into your own website. </p>
+<p>Like this for Auckland:<br />
+
+<!-- iframe plugin v.4.3 wordpress.org/plugins/iframe/ -->
+<iframe src="http://weather.niwa.co.nz/Auckland/kiosk/day/temperatureChart,minMaxTemperature" width="100%" height="340" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
+ </p>
+<p>And this for Dunedin:<br />
+
+<!-- iframe plugin v.4.3 wordpress.org/plugins/iframe/ -->
+<iframe src="http://weather.niwa.co.nz/Dunedin/kiosk/day/temperatureChart,minMaxTemperature" width="100%" height="340" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
+ </p>
+<p>The key is to add /kiosk after the location in the URL.  This gives you just the interactive graphical elements and leaves off the rest of the website content and chrome.  </p>
+<p>If you do use this in your website be sure to give credit to NIWA and provide a link to the main weather site: http://weather.niwa.co.nz. Also be sure to read the <a href="http://weather.niwa.co.nz/content/disclaimer">DISCLAIMER</a></p>
+<p>If you are running a commercial site then you will need to get an agreement from NIWA and they might want to charge you if traffic is high. </p>
+<p>We can also do special locations &#8211; NIWA installed a local weather station at Mystery Creek for fieldays 2013 where the site was launched.   The NiwaWeather kiosk appeared on the Giant display screens, on stand display and on the <a href="fieldays.co.nz/weather">fieldays website </a>.</p>
+<h1>API</h1>
+<h2>The Server</h2>
+<p>The service url is http://weather.niwa.co.nz</p>
+<p>The full path is:<br />
+ http://weather.niwa.co.nz/{locationList}/{displayMode}/{trackingMode}/{extras}</p>
+<h2>Location list</h2>
+<p>The first parameter is one or more location names.  The forecast is repeated for each location given in a comma separated list. </p>
+<p>1. single location  e..g  Auckland<br />
+2. Names with spaces use underscores  e.g.  Mystery_Creek<br />
+3. Multiple locations e.g   Auckland,Wellington   &#8211; shows a list of panels.</p>
+<p>The stations list is available at <a href="http://weather.niwa.co.nz/stationsAvailable">/stationsAvailable</a> this returns a javascript variable containing the stations list. </p>
+<caption>Example of http://weather.niwa.co.nz/Auckland,Christchurch,Timaru/kiosk </caption>
+
+<!-- iframe plugin v.4.3 wordpress.org/plugins/iframe/ -->
+<iframe src="http://weather.niwa.co.nz/Auckland,Christchurch,Timaru/kiosk" width="600" height="1150" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
+
+<h2>Mode</h2>
+<p>The mode parameter controls what is on the page and the number of hours showing:</p>
+<ol>
+<li>/weather (default)   &#8211; shows the title bar with the previous locations, the hours, days, main page body text and footer</li>
+<li>/kiosk – shows hours and days only</li>
+<li>/ribbon – shows hours only with 144 hours showing – for testing purposes only.</li>
+</ol>
+<h2>Track</h2>
+<p>The track parameter controls how the page is presented and updates over time.</p>
+<ol>
+<li>hour – keep the infoText in the left hand column and move the day left once each hour.  Default for weather mode</li>
+<li>day – centre the day in the window and track the infoText across the page. Default for kiosk mode</li>
+<ol>
+<h2>Extra features</h2>
+<p>Controls the appearance of extra features. You can add multiple extras with a comma separated list.</p>
+<ol>
+<li>textOnly – replace the hours and days SVG graphics with a pure HTML table.
+<li>temperatureChart &#8211;  display a temperature chart on the hours graphic.
+<li>minMaxTemperature – display min and max daily temperatures on the hours graphic.  (can be combined with 2).
+</ol>
+<p>If we detect that your browser does not support SVG we will switch to textOnly automatically.</p>
+<p>Other URLS<br />
+/about &#8211;  Shows the about page.<br />
+/weathermap/rain – Shows the rainfall map ( may change this) .</p>
+<p>This is just the beginning &#8211; lots more to come.</p>
+<p>Andrew</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://andrew.avowkind.net/niwaweather-designed-for-embedding?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-116" class="share-twitter sd-button share-icon" href="http://andrew.avowkind.net/niwaweather-designed-for-embedding?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-116" class="share-google-plus-1 sd-button share-icon" href="http://andrew.avowkind.net/niwaweather-designed-for-embedding?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-linkedin"><a rel="nofollow" data-shared="sharing-linkedin-116" class="share-linkedin sd-button share-icon" href="http://andrew.avowkind.net/niwaweather-designed-for-embedding?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon" href="http://andrew.avowkind.net/niwaweather-designed-for-embedding?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="http://andrew.avowkind.net/niwaweather-designed-for-embedding#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-116" class="share-facebook sd-button share-icon" href="http://andrew.avowkind.net/niwaweather-designed-for-embedding?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>
+				</div>
+				<div class="entry-meta">
+					<span class="entry-date"><abbr class="published" title="2013-06-13T12:26:14+0000">2013/06/13 &#8211; 12:26 pm</abbr></span>
+					<span class="meta-sep">|</span>
+					<span class="author vcard">By <a href="http://andrew.avowkind.net/author/andrew" title="Posts by andrew">andrew</a></span>
+					<span class="meta-sep">|</span>
+					<span class="cat-links">Posted in <a href="http://andrew.avowkind.net/category/imagination" rel="category tag">imagination</a></span>
+					<span class="meta-sep">|</span>
+					<span class="tag-links">Tagged <a href="http://andrew.avowkind.net/tag/niwa" rel="tag">niwa</a>, <a href="http://andrew.avowkind.net/tag/svg" rel="tag">svg</a>, <a href="http://andrew.avowkind.net/tag/weather" rel="tag">weather</a>, <a href="http://andrew.avowkind.net/tag/web" rel="tag">web</a></span>
+					<span class="meta-sep">|</span>
+					<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on NiwaWeather Designed for embedding.</span></span></span>
+				</div>
+			</div><!-- .post -->
+
+			<div id="nav-below" class="navigation">
+				<div class="nav-previous"><a href="http://andrew.avowkind.net/vote_or_burn" rel="prev"><span class="meta-nav">&larr;</span> Vote or burn a car &#8211; will it make a difference</a></div>
+				<div class="nav-next"><a href="http://andrew.avowkind.net/142" rel="next">Don&#8217;t fear the reaper <span class="meta-nav">&rarr;</span></a></div>
+			</div>
+
+			<div id="comments">
+<p class="disabled">Comments are disabled for this post</p></div><!-- .comments -->
+		</div><!-- #content -->
+	</div><!-- #container -->
+
+
+	<div id="footer-wrap">
+		<div id="footer-wrap-inner">
+			<div id="primary" class="footer">
+				<ul class="xoxo">
+		
+					<li id="about-sidebar">
+						<h3>About</h3>
+						<div>
+												</div>
+					</li>
+					
+					<li id="pages">
+						<h3>Pages</h3>
+						<ul>
+		<li class="page_item page-item-2"><a href="http://andrew.avowkind.net/about">Contact</a></li>
+<li class="page_item page-item-75"><a href="http://andrew.avowkind.net/resume">Résumé</a></li>
+						</ul>
+					</li>
+								
+						</ul>
+			</div><!-- #primary .sidebar -->
+
+		<div id="secondary" class="footer">
+			<ul class="xoxo">
+	
+			<li id="linkcat-8" class="widget widget_links">
+				<h3 class="widgettitle">About Andrew</h3>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://andrewwatkins.brandyourself.com/" title="My profile on Brandyourself">Andrew Watkins Profile</a></li>
+
+	</ul>
+
+			</li>
+
+			</ul>
+		</div><!-- #secondary .sidebar -->
+
+		<div id="ternary" class="footer">
+			<ul class="xoxo">
+	
+			<li id="archives-3" class="widget widget_archive">
+				<h3 class="widgettitle">Archives</h3>
+		<ul>
+			<li><a href='http://andrew.avowkind.net/2015/03'>March 2015</a></li>
+	<li><a href='http://andrew.avowkind.net/2013/06'>June 2013</a></li>
+	<li><a href='http://andrew.avowkind.net/2011/11'>November 2011</a></li>
+	<li><a href='http://andrew.avowkind.net/2011/03'>March 2011</a></li>
+	<li><a href='http://andrew.avowkind.net/2010/11'>November 2010</a></li>
+	<li><a href='http://andrew.avowkind.net/2010/09'>September 2010</a></li>
+	<li><a href='http://andrew.avowkind.net/2010/08'>August 2010</a></li>
+	<li><a href='http://andrew.avowkind.net/2010/07'>July 2010</a></li>
+	<li><a href='http://andrew.avowkind.net/2010/06'>June 2010</a></li>
+		</ul>
+		
+			</li>
+
+			<li id="meta-3" class="widget widget_meta">
+				<h3 class="widgettitle">Meta</h3>
+			<ul>
+						<li><a href="http://andrew.avowkind.net/wp-login.php">Log in</a></li>
+			<li><a href="http://andrew.avowkind.net/feed">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://andrew.avowkind.net/comments/feed">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			
+			</li>
+			</ul>
+		</div><!-- #ternary .sidebar -->
+			<div id="footer">
+				<span id="generator-link"><a href="http://wordpress.org/" title="WordPress" rel="generator">WordPress</a></span>
+			</div><!-- #footer -->
+		</div><!-- #footer-wrap-inner -->
+	</div><!-- #footer-wrap -->
+
+</div><!-- #wrapper .hfeed -->
+	<div style="display:none">
+	</div>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/andrew.avowkind.net\/niwaweather-designed-for-embedding":116};
+	</script>
+	<div id="sharing_email" style="display: none;">
+		<form action="/niwaweather-designed-for-embedding" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			
+			<img style="float: right; display: none" class="loading" src="http://andrew.avowkind.net/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-linkedin' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='http://andrew.avowkind.net/wp-includes/js/comment-reply.min.js?ver=4.5.9'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201730'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2017Julaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://andrew.avowkind.net/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.5.9'></script>
+<script type='text/javascript' src='http://andrew.avowkind.net/wp-content/themes/the-erudite/js/common.js?ver=3.2'></script>
+<script type='text/javascript' src='http://andrew.avowkind.net/wp-includes/js/wp-embed.min.js?ver=4.5.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://andrew.avowkind.net/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=4.0.4'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201730.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.0.4',blog:'35601516',post:'116',tz:'13',srv:'andrew.avowkind.net'} ]);
+	_stq.push([ 'clickTrackerInit', '35601516', '116' ]);
+</script>
+</body>
+</html>

@@ -1,5 +1,5 @@
 ---
-title: quotes
+title: Quotes & Philosophy
 date: 2017-07-23 18:43:17
 ---
 # The Tao
