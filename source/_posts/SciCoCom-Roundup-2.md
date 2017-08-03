@@ -33,7 +33,7 @@ They can be found in:
 * National labs and large facilities
 * or can simply be the post-doc everyone turns to for help.
 
-One difficulty can be recognising the role for example in a recent survey of  10,000 academic jobs advertised in the UK they found about 400 were software related or had a software development component. Thats good - but they also found 194 different job titles!
+One difficulty can be recognising the role for example in a recent survey of  10,000 academic jobs advertised in the UK they found about 400 were software related or had a software development component. That's good - but they also found 194 different job titles!
 
 ### A brief history:
 * 2010 - Software sustainability institute. - 4 uk unis, better software, better research
@@ -112,7 +112,7 @@ There's not much to say - go work through the demo and examples and have some fu
 
 # Creating the chaotic sandpit, giving corporate IT the right tools and freedom to support science. - Jonathon Flutey, (Johnny) Victoria University, Wellington
 
-Traditional core IT has key drivers of stabilty and security along with limited resources. This tends to result in systems that are locked down, not flexible, and not available when needed.
+Traditional core IT has key drivers of stability and security along with limited resources. This tends to result in systems that are locked down, not flexible, and not available when needed.
 
 Victoria Uni created a [Vision and strategy for Digital learning and Teaching 2012 to 2017](https://www.google.co.nz/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwi5ydXExLrVAhUBLJQKHZ0PDxEQFgglMAA&url=http%3A%2F%2Fwww.victoria.ac.nz%2Flearning-teaching%2Fpartnership%2Ftechnology%2Fdigital-vision-strategy.pdf&usg=AFQjCNEwiSvAW0DVQz6VoFJ_n9Qas4Hlmw)
 
@@ -151,7 +151,7 @@ They identified three levels of platform sophistication and formality:
   * Evaluation, assessment, pilot, transitioning
   * collaboration between research and formal IT
   * AWS, Azure, Catalyst Cloud, Docker, private cloud
-  * live testing, scaling up, persistant storage, privacy
+  * live testing, scaling up, persistent storage, privacy
   * available in days, months life cycle - project scale
   * Experimental
   * But may have privacy and security concerns so more care required
@@ -165,7 +165,7 @@ They identified three levels of platform sophistication and formality:
   * Azure, VMWare, Physical SOE servers
   * security
   * built for production - weeks?
-  * long term persistance
+  * long term persistence
 
 May need to put containers into long term digital preservation system.
 
@@ -211,7 +211,7 @@ This was not a particularly complex optimisation the key there is simply having 
 
 
 # Closing
-Nick Jones from NeSI gave a glimpse of whats coming soon for NZ researchers and developers in the form of new supercomputers. Rather than repeat it here take a look at https://www.nesi.org.nz/news/2017/06/new-computing-platform-power-nz-research
+Nick Jones from NeSI gave a glimpse of what's coming soon for NZ researchers and developers in the form of new supercomputers. Rather than repeat it here take a look at https://www.nesi.org.nz/news/2017/06/new-computing-platform-power-nz-research
 
 Finally I closed the conference with a brief summary of the above and some new things I needed to go home and investigate:
 New terms

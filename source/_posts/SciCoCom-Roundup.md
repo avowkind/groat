@@ -81,7 +81,7 @@ Here are some of the common themes:
 	* For all the talk of advanced technology a lot of benefit from moving up one step on the maturity model - e.g start using version control.
 	* Some organisations are data rich but information poor, they have a multitude of data sets that are hard to discover, lack clear documentation and data models, lack processes and the means to analyse, and there is a lack of experienced data science capability.
 * Legacy code & Silos
-	 * Some organisations have very long running systems, e.g. Nationally Significant databases. These promote extreme conservatism and resistance to change. There is a requirement for long term statistics - whether for climate or job figures to be consistantly produced the same way each year.
+	 * Some organisations have very long running systems, e.g. Nationally Significant databases. These promote extreme conservatism and resistance to change. There is a requirement for long term statistics - whether for climate or job figures to be consistently produced the same way each year.
    * Older systems have often evolved over time and have no as built description or design documentation.
 * Labour costs massively outweigh compute equipment costs, yet the nature of IT budgets is that a researcher may have to work with a slow PC or wait weeks for access to online resources.
 * How easy is it for scientists to
@@ -212,7 +212,7 @@ Uwe demonstrated how modern languages and frameworks now typically come with too
 
 This is a major shift from the days when many novices would create new projects based on template code abstracted from how-to's and tutorials. These projects often would be configured for simplicity and getting started rather than generating a production ready system.
 
-Uwe demonstrated [Angular](https://angular.io/) in conjuction with a node.js package [Angular-cli](https://github.com/angular/angular-cli) a command line interface for generating and managing angular projects.
+Uwe demonstrated [Angular](https://angular.io/) in conjunction with a node.js package [Angular-cli](https://github.com/angular/angular-cli) a command line interface for generating and managing angular projects.
 
 Although hampered rather by the VGA projector, Uwe was able to live demo installation of the tool chain and generation of a first project.  This project comes ready configure with end to end testing and unit testing capabilities so you can start writing fully tested applications from day one - by far the easiest way.
 
