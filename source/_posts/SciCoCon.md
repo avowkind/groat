@@ -1,7 +1,7 @@
 ---
 title: Science Coders Conference 2017
 date: 2017-07-31 08:25:29
-tags:
+tags: Conference
 ---
 The [2017 Science Coding Conference](https://www.nesi.org.nz/news/2017/04/2017-science-coding-conference_) will be held from Tuesday August 1 to Wednesday August 2 at the Massey University Campus in central Wellington.
 
@@ -13,6 +13,6 @@ Where: Tussock Venue, Massey University
 Tasman Street, Entrance E,
 Wellington Central, Wellington 6021
 
-I'll be tweeting #SciCoCon
+I'll be tweeting #SciCoCon2017
 
 This will be attended by both pro software developers and science coders and its an opportuntity to meet peers and talk about tools, techniques, processes and challenges associated with developing robust scientific code and applications.

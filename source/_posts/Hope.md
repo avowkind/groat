@@ -1,7 +1,7 @@
 ---
 title: A New Hope
 date: 2017-07-23 19:33:53
-tags:
+tags: Consulting
 ---
 After 9 years at NIWA I have decided to hang out my shingle as an independent IT consultant.
 

@@ -1,7 +1,7 @@
 ---
 title: NiwaWeather
 date: 2013-06-31 08:44:18
-tags:
+tags: API
 ---
 
 ## Designed for embedding.
