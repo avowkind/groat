@@ -12,7 +12,7 @@ This blog post is based on my closing speech at the conference and is a quick ro
 
 Thanks to the organisers: Aleksandra, Rhiannon, Georgina from NeSI without whose planning and encouragement the event would not have happened. Also to Matthew Laurenson, Craig Stanton and others on the programme committee for selecting the presentations. We had an interesting mix of how-to technology, strategy and problem solving.
 
-Thanks to NeSI for underwriting and to Victoria University for hosting.
+Thanks to NeSI for underwriting and to Massey University in central Wellington for hosting.
 
 # Peter Ellis
 The day 1 keynote speech came from Peter Ellis - Currently at StatsNZ but until recently at MBIE.
@@ -218,4 +218,4 @@ Although hampered rather by the VGA projector, Uwe was able to live demo install
 
 Again I recommend working through the readme to get a project started. Then perhaps watch [this course on youtube](https://youtu.be/htPYk6QxacQ) for a crash course in what a javascript framework can do for front end development.
 
-The day ended with drinks, nibbles and socialising. 
+The day ended with drinks, nibbles and socialising.

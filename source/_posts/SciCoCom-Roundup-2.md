@@ -6,7 +6,7 @@ tags: Conference
 ---
 # Alys Brett - Research Software Engineers
 Day 2 started with an experiment - a keynote address from someone on the other side of the world.
-Alys Brett is from the Culham Centre for Fusion Energy in Abingdon, Oxfordshire, England. She is a Software Team leader and Joint Chair of UK Research Software Engineer Association (RSEA)[http://rse.ac.uk/]
+Alys Brett is from the Culham Centre for Fusion Energy in Abingdon, Oxfordshire, England. She is a Software Team leader and Joint Chair of UK Research Software Engineer Association [RSEA](http://rse.ac.uk/)
 
 Rather than risk the entire talk to the Zoom video conferencing system Alys recorded a video of the main part of her talk which we played to the audience, followed by a live Q&A through the conferencing system. This worked well - perhaps everyone should record their presentations.
 
