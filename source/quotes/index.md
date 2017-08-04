@@ -35,7 +35,7 @@ No one can prevent that
 {% endblockquote %}
 
 ## Thorny people
-In every group of people: families, teams, communities there are thorns that annoy. Its not always necessary to point out their faults - As my wise wife says - "Do you want to be right or in a relationship".
+In every group of people: families, teams, communities there are thorns that annoy. It's not always necessary to point out their faults - As my wise wife says - "Do you want to be right or in a relationship".
 
 {% blockquote Mediations, Marcus Aurelius, Book 4, trans Gregory Hayes %}
 What’s there to complain about? People’s misbehavior?
@@ -52,11 +52,11 @@ But take into consideration:
 This version of keep it simple applies to the way we live our lives - but it also applies to good software design. Do what is essential, ask is this necessary.
 
 {% blockquote Mediations, Marcus Aurelius, Book 4, trans Gregory Hayes %}
-"If you seek tranquility, do less", Or (more accurately) do what's essential - what the logos of a social being requires, and in the requisite way. While brings a double satisfaction: to do less, better.
+"If you seek tranquillity, do less", Or (more accurately) do what's essential - what the logos of a social being requires, and in the requisite way. While brings a double satisfaction: to do less, better.
 
 Because most of what we say and do is not essential. If you can eliminate it, you'll have more time, and more tranquillity. Ask yourself at every moment, "Is this necessary?"
 
-But we need to eliminate unnecessary assumptions as well. To eliminate the unecessary actions that follow.
+But we need to eliminate unnecessary assumptions as well. To eliminate the unnecessary actions that follow.
 {% endblockquote %}
 
 # Physics

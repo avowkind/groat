@@ -93,7 +93,7 @@ Monitoring apparatus for monitoring traffic flow in a tunnel, Golden River Ltd, 
 
 Resource files for electronic devices, Sendo, WO 2002041139 A3, https://www.google.com/patents/WO2002041139A3
 
-Device for automatically extending text messages, and methods therefor, Sendo, US 20050180392 A1, https://www.google.com/patents/US20050180392
+Device for automatically extending text messages, and methods therefore, Sendo, US 20050180392 A1, https://www.google.com/patents/US20050180392
 
 Method of Determining a Rendezvous and Related Personal Navigation Device, Navman, US 20100161210 A1, https://www.google.com/patents/US20100161210
 

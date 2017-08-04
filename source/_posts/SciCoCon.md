@@ -15,4 +15,4 @@ Wellington Central, Wellington 6021
 
 I'll be tweeting #SciCoCon2017
 
-This will be attended by both pro software developers and science coders and its an opportuntity to meet peers and talk about tools, techniques, processes and challenges associated with developing robust scientific code and applications.
+This will be attended by both pro software developers and science coders and it's an opportunity to meet peers and talk about tools, techniques, processes and challenges associated with developing robust scientific code and applications.
