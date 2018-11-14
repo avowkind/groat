@@ -33,7 +33,7 @@ I have a track record as a forward thinking, innovative solutions designer and p
 * Managing change across technical groups.
 
 ## Technical Skills
-* Full stack web application development: HTML, CSS, JavaScript: (node.js, Angular, D3), PostgreSQL, PHP/Symphony, C/C++, Java, Python, R and many others.
+* Full stack web application development: HTML, CSS, JavaScript: (node.js, Angular, D3), PostgreSQL, PHP/Symfony, C/C++, Java, Python, R and many others.
 * Full life-cycle product design and development, business & functional analysis, specification, architecture, operations and support models.
 * Embedded systems, linux, network communications.
 * Agile (scrum), product ownership, roadmap & story development, delivery and operations
