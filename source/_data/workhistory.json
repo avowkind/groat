@@ -97,5 +97,23 @@
     "activity":"Strategy, Management, ",
     "team":36,
     "years":2
+  },
+  {
+    "year":2017,
+    "country":"NZ",
+    "company":"Groat.nz",
+    "role":"Consultant Auckland University",
+    "activity":"Strategy, Digital Transformation, ",
+    "team":2,
+    "years":1
+  },
+  {
+    "year":2018,
+    "country":"NZ",
+    "company":"NZ Transport Agency",
+    "role":"Manager, Transport Technology",
+    "activity":"Digital Transformation, Product Management",
+    "team":3,
+    "years":1
   }
 ]

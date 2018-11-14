@@ -1,5 +1,5 @@
 ---
-title: SFIA Skills
+title: IT Management Skills
 date: 2017-07-23 12:12:14
 ---
 The Skills Framework for the Information Age can be found at http://www.sfia-online.org. It provides a range of key terms across categories of IT including strategy, change, development etc. Many of the terms are compatible with ITIL - another widely used IT framework. For each term, there is a range of autonomy levels that represent growth in experience and capability for the role.

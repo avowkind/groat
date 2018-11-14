@@ -3,7 +3,6 @@ title: Résumé
 date: 2017-07-23 11:32:57
 ---
 <dl class="dl-horizontal">
-Building beautiful products and successful teams.
 
 <dt>Full name</dt><dd>Andrew Vincent Watkins</dd>
 <dt>Present position</dt><dd>Independent IT Consultant</dd>
